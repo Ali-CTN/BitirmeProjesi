@@ -1,0 +1,2 @@
+# BitirmeProjesi
+DersProgrami Ayar,
